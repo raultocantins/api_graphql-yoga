@@ -1,4 +1,4 @@
-# api_graphql-yoga
+# Api_graphql-yoga
 api with graphql-yoga , bcrypt and mongoose
 
 ## Clonando o repositório
